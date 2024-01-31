@@ -1,0 +1,28 @@
+.preview-body{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.statement {
+    word-wrap: break-word;
+    max-width: 250px;
+    height: auto;
+}
+
+.experience-body{
+    text-align: left;
+}
+
+.elements {
+    word-wrap: break-word;
+    max-width: 250px;
+    margin-right: 15px;
+}
+
+.head-shot {
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}

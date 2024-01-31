@@ -1,0 +1,18 @@
+.footer {
+    background-color: #343434;
+    font-size: 1rem;
+    padding: 25px;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.duck {
+    max-height: 40px;
+    max-width: 40px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: -10px;
+}

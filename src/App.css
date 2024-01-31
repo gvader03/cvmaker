@@ -1,0 +1,41 @@
+#root {
+  min-width: 1000px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  width: 100vw;
+  overflow: auto;
+}
+.right{
+  width: 650px;
+  box-shadow: 10px 5px 5px #FFD4CA;
+  margin-left: 75px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  display: flex;
+  border-radius: 10px;
+  /*flex: 1;*/
+}
+.left {
+  min-width: 375px;
+  overflow: auto;
+  background-color: #FFD4CA;
+  color: #343434;
+  padding: 25px;
+}
+
+.cv-left{
+  color: #343434;
+  width: 300px;
+  padding: 100px 20px;
+}
+
+.cv-right {
+  padding: 100px 20px;
+  color: #343434;
+  width: 400px;
+}
